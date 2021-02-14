@@ -1,6 +1,3 @@
 # hello-world
 first repository
-
-
-
-I like the chicken nuggets
+need to add coding assignments from classes
